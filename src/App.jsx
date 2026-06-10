@@ -67,7 +67,7 @@ function App() {
         </a>
 
         <div className="location">
-          <p>Edificio Telia z15</p>
+          <p>Edificio Telia z15, Apt 201</p>
 
           <a
             className="directions-link"
